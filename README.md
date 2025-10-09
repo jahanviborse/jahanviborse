@@ -41,23 +41,17 @@ With a strong foundation in **Python, SQL, Excel, Power BI, and R**, I focus on 
 
 ### 📂 Featured Projects
 
-#### 🏦 [Lending Club Loan Analysis](https://github.com/yourusername/landing-club-loan-project)
+#### 🏦📊 [Lending Club Loan Analysis](https://github.com/jahanviborse/Lending_Club_Loan.git)
 Exploratory Data Analysis (EDA) and visualization to understand borrower trends and loan performance.  
 **Tech Used:** Python, Pandas, Seaborn, Matplotlib  
-
-#### 📊 [Power BI Sales Dashboard](https://github.com/yourusername/sales-dashboard)
-Created an interactive **Power BI dashboard** tracking revenue, profit, and product performance.
-
-#### 📗 [Excel Data Cleaning & Dashboard](https://github.com/yourusername/excel-dashboard)
-Automated Excel dashboard using pivot tables, slicers, and advanced formulas.
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jahanviborse&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahanviborse&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
