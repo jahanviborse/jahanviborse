@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">👋 Hi, I'm Jahanvi Borse</h1>
-<h3 align="center">💡 Data Analyst | Python | Power BI | SQL | Excel | R | Pandas</h3>
+<h3 align="center">💡 Data Analyst | Python | Power BI | SQL | Excel | R </h3>
 
 ---
 
