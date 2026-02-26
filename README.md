@@ -1,13 +1,13 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">👋 Hi, I'm Jahanvi Borse</h1>
-<h3 align="center">💡 Data Analyst | Python | Power BI | SQL | Excel | R </h3>
+<h3 align="center">💡 Data Analyst | Python | Power BI | SQL | Excel | R | Statistics </h3>
 
 ---
 
 ### 👨‍💻 About Me
 
 I’m a **Data Analyst** who turns complex data into clear insights and actionable stories.  
-With a strong foundation in **Python, SQL, Excel, Power BI, and R**, I focus on data-driven decision-making and automation.
+With a strong foundation in **Python, SQL, Excel, Power BI, R and Statistics**, I focus on data-driven decision-making and automation.
 
 
 🔍 Passionate about:  
